@@ -1,0 +1,241 @@
+{
+  "sessions": [
+    {
+      "id": "abe2f099-baa8-43fd-92d1-0a63e2be837a",
+      "title": "tell me about the order id : ORD...",
+      "created_at": "2026-10-12T16:28:16.827975",
+      "updated_at": "2026-10-12T16:52:39.094340",
+      "messages": [
+        {
+          "id": "4ef7f6ba-39d0-4157-b9dc-fae109c3d04e",
+          "sender": "user",
+          "text": "tell me about the order id : ORD1002",
+          "timestamp": "2026-10-12T16:45:40.819871",
+          "metadata": {}
+        },
+        {
+          "id": "1b02469c-c608-4096-b1f6-74f2061c9578",
+          "sender": "bot",
+          "text": "Certainly! Here are the details for order **ORD1002**:\n\n* **Product:** Python Course\n* **Status:** Purchased\n* **Amount:** 2999\n* **Delivery Date:** 2026-10-01\n* **Customer Email:** rahul@gmail.com\n\nIs there anything else I can help you with regarding this order?",
+          "timestamp": "2026-10-12T16:45:47.825075",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": "ORD1002"
+          }
+        },
+        {
+          "id": "8bf803b4-e148-4a48-8864-bc7b51848647",
+          "sender": "user",
+          "text": "Ticket id do jo pichli complaint raise ki",
+          "timestamp": "2026-10-12T16:46:36.682917",
+          "metadata": {}
+        },
+        {
+          "id": "2507b1db-f109-481e-b3da-504e4b578f7c",
+          "sender": "bot",
+          "text": "नमस्ते! मुझे खेद है, लेकिन मैं सीधे आपकी पिछली शिकायत का टिकट आईडी नहीं देख सकता क्योंकि मेरे पास आपके पिछले रिकॉर्ड्स का सीधा एक्सेस नहीं है।\n\nक्या आप मुझे अपना **Order ID** या वह **Email Address** बता सकते हैं जिसका उपयोग आपने शिकायत दर्ज करने के लिए किया था? इससे मैं आपकी बेहतर मदद करने की कोशिश कर पाऊँगा।\n\nयदि आपको तुरंत सहायता चाहिए, तो मैं आपको हमारी सपोर्ट टीम से सीधे संपर्क करने की सलाह दूँगा।",
+          "timestamp": "2026-10-12T16:46:56.390809",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": null
+          }
+        },
+        {
+          "id": "179556cb-1db3-4845-8cbb-88a75c42a012",
+          "sender": "user",
+          "text": "Good",
+          "timestamp": "2026-10-12T16:47:23.410664",
+          "metadata": {}
+        },
+        {
+          "id": "30911eb0-49b4-40f9-a873-b8be9b87611c",
+          "sender": "bot",
+          "text": "Hello! How can I help you today? Please let me know if you have any questions regarding an order or if there's anything else I can assist you with.",
+          "timestamp": "2026-10-12T16:47:26.623308",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": null
+          }
+        },
+        {
+          "id": "ffba68e7-95fb-4205-be2d-7ce91d2f335a",
+          "sender": "user",
+          "text": "Register my complaint : Order Id: ORD1002   becuase of  payment issue but order not purchased at this time",
+          "timestamp": "2026-10-12T16:48:18.634280",
+          "metadata": {}
+        },
+        {
+          "id": "55ca6473-940a-4dd4-9848-34cec91b8d81",
+          "sender": "bot",
+          "text": "Hello! I'm sorry to hear that you've encountered a payment issue with your order. I would be happy to help you register this complaint.\n\nTo proceed with creating a formal complaint ticket for Order ID **ORD1002**, could you please provide your **email address**? \n\nOnce I have that, I will immediately generate a ticket for our support team to investigate.",
+          "timestamp": "2026-10-12T16:48:30.198493",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": "ORD1002"
+          }
+        },
+        {
+          "id": "579abb26-6474-4194-8300-18a9b5659373",
+          "sender": "user",
+          "text": "rahul@gmail.com",
+          "timestamp": "2026-10-12T16:48:57.466760",
+          "metadata": {}
+        },
+        {
+          "id": "01a6f500-6d41-42d6-adec-ee78fffb6a1b",
+          "sender": "bot",
+          "text": "Hello! Thank you for providing your email address. \n\nHow can I assist you today? Please let me know if you have a question about an order, need help with a service, or have any other concerns.",
+          "timestamp": "2026-10-12T16:49:01.870203",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": null
+          }
+        },
+        {
+          "id": "8d8b8de5-df1c-4568-b8bf-329e01577784",
+          "sender": "user",
+          "text": "Raise complaint on behalf of above order id and email id",
+          "timestamp": "2026-10-12T16:49:55.674861",
+          "metadata": {}
+        },
+        {
+          "id": "5453f187-7a64-4436-9638-d267c24e5c68",
+          "sender": "bot",
+          "text": "I would be happy to help you raise a complaint. However, I don't see an order ID or email address mentioned in our conversation yet.\n\nCould you please provide the following details?\n* **Order ID**\n* **Email Address**\n* **Details of your complaint** (what happened and how we can help)\n\nOnce I have this information, I will create a support ticket for you immediately.",
+          "timestamp": "2026-10-12T16:50:01.040878",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": null
+          }
+        },
+        {
+          "id": "1a3b84ee-e616-452d-9e5b-a705c1e6b51d",
+          "sender": "user",
+          "text": "Register my complaint",
+          "timestamp": "2026-10-12T16:51:10.499008",
+          "metadata": {}
+        },
+        {
+          "id": "20257052-ece1-44de-9891-de450c1bcf9e",
+          "sender": "bot",
+          "text": "Hello! I am sorry to hear that you are having an issue. I would be happy to help you register your complaint.\n\nTo assist you properly, could you please provide the following details?\n\n1. **Order ID** (e.g., ORD1234)\n2. **Your email address**\n3. **A description of the issue** you are experiencing\n\nOnce you provide this information, I will create a support ticket for you.",
+          "timestamp": "2026-10-12T16:51:20.058440",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": "ORD1234"
+          }
+        },
+        {
+          "id": "8f54399d-9a66-4fb0-b129-978c7ad661ea",
+          "sender": "user",
+          "text": "OrderID : ORD1002  , Email address: rahul@gmail.com and description: payment issue but order not purchased at this time  raise compalin tikcet",
+          "timestamp": "2026-10-12T16:52:20.730702",
+          "metadata": {}
+        },
+        {
+          "id": "f0d2b9e4-a43b-4667-ad13-15205ef37719",
+          "sender": "bot",
+          "text": "Hello Rahul,\n\nI have successfully raised a complaint ticket for you regarding the payment issue with your order ORD1002.\n\n**Ticket Details:**\n* **Ticket ID:** TKT-1001\n* **Status:** Open\n\nOur support team will investigate this matter and get back to you as soon as possible. Thank you for your patience. Is there anything else I can help you with?",
+          "timestamp": "2026-10-12T16:52:39.094340",
+          "metadata": {
+            "ticket_id": "TKT-1001",
+            "order_id": "ORD1002"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dbb60efe-9eab-482c-8c7e-b5933b88abd2",
+      "title": "I want to register a complaint f...",
+      "created_at": "2026-10-12T16:25:06.090865",
+      "updated_at": "2026-10-12T16:28:05.477636",
+      "messages": [
+        {
+          "id": "0e7df8c7-bbab-4780-994c-e467fb26a6c2",
+          "sender": "user",
+          "text": "I want to register a complaint for order ORD1001. My email is customer@example.com.",
+          "timestamp": "2026-10-12T16:25:08.987116",
+          "metadata": {}
+        },
+        {
+          "id": "021a8de3-ab64-4b34-83a2-4ddfbda2f66d",
+          "sender": "bot",
+          "text": "I'm sorry to hear that you've encountered an issue with your order. I would be happy to help you register a complaint for order **ORD1001**.\n\nCould you please provide more details about what happened? Once I have those details, I will create a formal complaint ticket for you.",
+          "timestamp": "2026-10-12T16:25:19.366857",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": "ORD1001"
+          }
+        },
+        {
+          "id": "d1efc065-69b6-46ee-a596-cc4aea542ef3",
+          "sender": "user",
+          "text": "I need to register complaint becuase my Mouse is not working properly",
+          "timestamp": "2026-10-12T16:25:49.051638",
+          "metadata": {}
+        },
+        {
+          "id": "242fee9b-5cb2-4040-8dd8-5304f3b096c4",
+          "sender": "bot",
+          "text": "I'm sorry to hear that your mouse is not working properly. I can certainly help you register a formal complaint so our team can look into this for you.\n\nTo create a support ticket, could you please provide the following information?\n\n1.  **Your Order ID** (e.g., ORD1234)\n2.  **Your registered Email Address**\n\nOnce I have these details, I will generate a ticket and provide you with a ticket ID for your records.",
+          "timestamp": "2026-10-12T16:25:58.188112",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": "ORD1234"
+          }
+        },
+        {
+          "id": "f3711788-58d4-4201-8404-0dde4918301c",
+          "sender": "user",
+          "text": "email adrress : customer@example.com",
+          "timestamp": "2026-10-12T16:26:16.715209",
+          "metadata": {}
+        },
+        {
+          "id": "d3f32b34-bdcf-4d9b-a861-9b44aba53020",
+          "sender": "bot",
+          "text": "Hello! Thank you for providing your email address.\n\nHow can I assist you today? Please let me know if you have a question about an order, need help with a complaint, or require any other information.",
+          "timestamp": "2026-10-12T16:26:20.825231",
+          "metadata": {
+            "ticket_id": null,
+            "order_id": null
+          }
+        },
+        {
+          "id": "bcffd472-bb38-4012-950c-57b8ad8953aa",
+          "sender": "user",
+          "text": "Register my complaint regarding the Order Id : ORD1001 and emailadrress : customer@example.com  becuase the mouse is not working properly means damage issue",
+          "timestamp": "2026-10-12T16:27:19.187546",
+          "metadata": {}
+        },
+        {
+          "id": "17d1649b-0bd1-452a-b4aa-02ae28f3959d",
+          "sender": "bot",
+          "text": "I have successfully registered your complaint. Here are the details for your reference:\n\n* **Ticket ID:** TKT-1001\n* **Order ID:** ORD1001\n* **Status:** Open\n* **Issue:** The mouse is not working properly (damage issue).\n\nOur support team will review your request and get back to you as soon as possible. Is there anything else I can assist you with today?",
+          "timestamp": "2026-10-12T16:27:38.490505",
+          "metadata": {
+            "ticket_id": "TKT-1001",
+            "order_id": "ORD1001"
+          }
+        },
+        {
+          "id": "1d153763-13da-48a3-bf5e-20874ddc55b2",
+          "sender": "user",
+          "text": "Ticket ID: TKT-1001",
+          "timestamp": "2026-10-12T16:27:53.955134",
+          "metadata": {}
+        },
+        {
+          "id": "ceea2e50-0e4b-4914-bf2f-4974ea5fc053",
+          "sender": "bot",
+          "text": "Hello! I see you've provided Ticket ID **TKT-1001**.\n\nHow can I assist you with this ticket today? For example, are you looking for a status update, or would you like to add more information to your request?",
+          "timestamp": "2026-10-12T16:28:05.477636",
+          "metadata": {
+            "ticket_id": "TKT-1001",
+            "order_id": null
+          }
+        }
+      ]
+    }
+  ]
+}
